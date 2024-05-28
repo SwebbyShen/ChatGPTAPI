@@ -9,7 +9,7 @@ response = client.chat.completions.create(
     messages=[
         {
             "role": "user",
-            "content": "寺岡精工ビジネスサービス部の部長は誰ですか。",
+            "content": "日本一高い山は何ですか。",
         }
     ],
     max_tokens=50
